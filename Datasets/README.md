@@ -1,2 +1,1 @@
-use this link to download the relevant datasets
-https://drive.google.com/drive/folders/1hhrAleRUldOFKQPBIAAG8d6v05f4o6sP?usp=sharing
+Please reach out to ipek.sahbazoglu@magd.ox.ac.uk and yigit@vela.partners to get access to the datasets :)
